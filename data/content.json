@@ -1,0 +1,142 @@
+{
+  "pageTitle": "6 Meses com Voce",
+  "pageSubtitle": "Uma pequena surpresa para celebrar nossa historia.",
+  "nextButtonLabel": "Clique para avancar",
+  "finishButtonLabel": "Desbloquear o meu presente 🔒",
+  "unlockFlow": {
+    "title": "Verificação de dois fatores",
+    "verificationMessage": "Verificação de dois fatores, dê um beijinho no seu amor para resgatar o seu presente.",
+    "buttonLabel": "Desbloquear o meu presente 🔒",
+    "yesLabel": "Já dei um beijinho no meu amor",
+    "noLabel": "Não dei um beijinho :(, odeio ele",
+    "accentIcon": "🔒",
+    "hint": "Confirme o beijinho para liberar o presente."
+  },
+  "gift": {
+    "title": "Cartao presente desbloqueado",
+    "text": "Parabens! O seu codigo esta pronto para resgate.",
+    "code": "AMOR-6-MESES-2026",
+    "accentIcon": "🎁",
+    "hint": "Guarde esse codigo com carinho."
+  },
+  "music": {
+    "enabled": true,
+    "src": "assets/audio/nossa-musica.mp3",
+    "autoplay": false,
+    "loop": true
+  },
+  "steps": [
+    {
+      "title": "Pra você... meu amor.",
+      "text": "Oi...",
+      "accentIcon": "❤"
+    },
+    {
+      "text": "Você achou que eu tinha esquecido de você?",
+      "accentIcon": "❤",
+      "images": [
+        {
+          "src": "assets/img/davi-britto.jpg"
+        }
+      ]
+    },
+    {
+      "text": "Não foi mesmo... estou aqui para te lembrar de como é importante para mim, então preparei esta surpresa digital especial para você... Espero que você goste!",
+      "accentIcon": "❤",
+      "images": [
+        {
+          "src": "assets/img/romarinho.jpg"
+        }
+      ]
+    },
+    {
+      "title": "A primeira impressão",
+      "text": "Tudo começou no dia em que eu me encantei por uma mulher...",
+      "accentIcon": "💘",
+      "images": [
+        {
+          "src": "assets/img/desenho-paixao.png"
+        }
+      ]
+    },
+    {
+      "title": "A primeira impressão",
+      "text": "Você estava tão linda, tão linda, tão linda que eu não conseguia parar de olhar para você, algo me dizia que eu ia amar você demais...",
+      "accentIcon": "💘",
+      "images": [
+        {
+          "src": "assets/img/jerry.jpg"
+        }
+      ]
+    },
+    {
+      "text": "Eu não queria viver um amor de uma noite, eu queria conhecer você, eu não queria um beijo (não naquele momento)",
+      "accentIcon": "💘",
+      "images": [
+        {
+          "src": "assets/img/modo-serio.jpeg"
+        }
+      ]
+    },
+    {
+      "text": "Eu só queria ter a chance de poder encontrar aquele sorriso mais vezes...",
+      "accentIcon": "💘",
+      "images": [
+        {
+          "src": "assets/img/ELA-3.jpeg"
+        }
+      ]
+    },
+    {
+      "text": "No fundo eu sabia que valeria a pena...",
+      "accentIcon": "💘",
+      "images": [
+        {
+          "src": "assets/img/ano-novo.jpeg",
+          "caption": "Nós juntos"
+        }
+      ]
+    },
+    {
+      "title": "Vencemo",
+      "text": "No final eu venci, eu ganhei o beijo, eu ganhei o coração, ganhei o sorriso mais lindo do mundo",
+      "images": [
+        {
+          "src": "assets/img/corinthians.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "E o mais importante...",
+      "text": "O privilégio de poder te chamar de meu amor, de poder te amar cada segundo, em cada detalhe, em cada momento, em cada risada, em cada sorriso, em cada olhar, em cada beijo, em cada abraço, em cada calor, em cada frio, em cada dia, em cada noite, em cada semana, em cada mês, em cada ano, em cada vida...",
+      "images": [
+        {
+          "src": "assets/img/niver-renata.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Feliz 6 meses, meu amor!",
+      "text": "Obrigado por existir e por me permitir viver esse amor tao especial com voce. Feliz 6 meses, meu amor!",
+      "images": [
+        {
+          "src": "assets/img/carnario.jpeg"
+        },
+        { "src": "assets/img/em-sp.jpeg" }
+      ]
+    }
+  ],
+  "final": {
+    "title": "Te amo infinitamente",
+    "text": "Obrigado por existir e por me permitir viver esse amor tao especial com voce. Feliz 6 meses, meu amor!",
+    "accentIcon": "💖",
+    "hint": "Se quiser, clique em recomecar e veja tudo de novo.",
+    "restartButtonLabel": "Recomecar",
+    "images": [
+      {
+        "src": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1200&q=80",
+        "caption": "Para sempre nos"
+      }
+    ]
+  }
+}

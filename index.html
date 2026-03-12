@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nossa Historia</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <div class="floating-hearts" aria-hidden="true">
+      <span>❤</span>
+      <span>❤</span>
+      <span>❤</span>
+      <span>❤</span>
+      <span>❤</span>
+    </div>
+
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">Feito com carinho</p>
+        <h1 id="pageTitle">Nossa Historia</h1>
+        <p class="subtitle" id="pageSubtitle">
+          Uma homenagem especial para voce.
+        </p>
+      </header>
+
+      <section class="card" id="storyCard" aria-live="polite">
+        <div class="step-meta">
+          <span id="stepIcon" class="step-icon" aria-hidden="true">❤</span>
+        </div>
+
+        <h2 id="stepTitle" class="step-title">Carregando...</h2>
+        <p id="stepText" class="step-text"></p>
+
+        <div id="gallery" class="gallery" aria-label="Fotos da etapa"></div>
+
+        <div id="unlockActions" class="unlock-actions hidden" aria-live="polite">
+          <button id="kissYesButton" class="btn-primary" type="button">
+            Já dei um beijinho no meu amor
+          </button>
+          <button id="kissNoButton" class="btn-negative" type="button">
+            Não dei um beijinho :(, odeio ele
+          </button>
+        </div>
+
+        <div id="giftCodeCard" class="gift-code-card hidden" aria-live="polite">
+          <p class="gift-label">Clique para resgatar</p>
+          <a href="https://meu.gift/F12kHCp9" target="_blank"><code id="giftCodeValue"></code></a>
+        </div>
+      </section>
+
+      <div class="controls">
+        <button id="nextButton" class="btn-primary" type="button">
+          Clique para avancar
+        </button>
+        <button id="musicButton" class="btn-secondary hidden" type="button">
+          Tocar musica
+        </button>
+      </div>
+
+      <p
+        id="statusMessage"
+        class="status-message"
+        role="status"
+        aria-live="polite"
+      ></p>
+    </main>
+
+    <script src="assets/js/app.js" type="module"></script>
+  </body>
+</html>
