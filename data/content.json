@@ -21,7 +21,7 @@
   },
   "music": {
     "enabled": true,
-    "src": "assets/audio/nossa-musica.mp3",
+    "src": "assets/audio/audio.mp3",
     "autoplay": false,
     "loop": true
   },
@@ -55,7 +55,8 @@
       "accentIcon": "💘",
       "images": [
         {
-          "src": "assets/img/desenho-paixao.png"
+          "src": "assets/img/desenho-paixao.png",
+          "caption": "(Eu olhando pra você)"
         }
       ]
     },
@@ -74,7 +75,8 @@
       "accentIcon": "💘",
       "images": [
         {
-          "src": "assets/img/modo-serio.jpeg"
+          "src": "assets/img/modo-serio.jpeg",
+          "caption": "Modo serio"
         }
       ]
     },
@@ -84,6 +86,9 @@
       "images": [
         {
           "src": "assets/img/ELA-3.jpeg"
+        },
+        {
+          "src": "assets/img/ela-2.jpeg"
         }
       ]
     },
@@ -92,8 +97,7 @@
       "accentIcon": "💘",
       "images": [
         {
-          "src": "assets/img/ano-novo.jpeg",
-          "caption": "Nós juntos"
+          "src": "assets/img/ano-novo.jpeg"
         }
       ]
     },
@@ -101,6 +105,9 @@
       "title": "Vencemo",
       "text": "No final eu venci, eu ganhei o beijo, eu ganhei o coração, ganhei o sorriso mais lindo do mundo",
       "images": [
+        {
+          "src": "assets/img/mango.jpeg"
+        },
         {
           "src": "assets/img/corinthians.jpeg"
         }
